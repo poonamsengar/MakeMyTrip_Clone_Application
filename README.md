@@ -1,10 +1,5 @@
 <h1>Hosted Link</h1>
 <a href='/' target='_blank'><strong>MAKE MY TRIP CLONE by Poonam</strong></a>
-<h1></h1>
-
-![Screenshot (550)](https://user-images.githubusercontent.com/121128467/226998521-9df8c261-f74f-400c-834e-aa85a468a137.png)
-
-<h1></h1>
 
 <h1>Features</h1>
 <ul>
